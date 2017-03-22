@@ -4,3 +4,4 @@ Git is free test software under the GPL.
 22221
 test add1
 test add branch
+test merge new branch
