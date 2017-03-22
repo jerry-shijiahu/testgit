@@ -5,4 +5,4 @@ Git is free test software under the GPL.
 test add1
 test add branch
 test merge new branch
-Creating a new branch is quick & simple.
+Creating a new branch is quick & simple merge new.
